@@ -1,0 +1,270 @@
+1947786: What challenges do you expect to encounter when trying to make a source code contribution to an Open Source project?,1947787: I feel comfortable asking for help from the Open Source community using electronic communication means.,1947788: I can write my questions and understand answers in English.,1947789: I am good in understanding code written by other people.,1947790: I have pretty good skills to write and change code.,1947791: I feel comfortable with the process of contributing to an Open Source project.,1947792: I think that contributing to an Open Source software project is an interesting activity.,1947793: I feel I can set up and run an application if a set of instructions is properly given.,1947794: I am pretty good at searching for solutions and understanding technical issues by myself.,1947795: I can choose an adequate task to fix if a list of tasks is given.,1947796: I can find the piece of code that needs to be fixed given a bug report presenting the issue.
+"The few challenges/issues I believe contributing to Open source (OS) project are the following
+
+1. Are the tasks available to the from the OSS structured that is easy to follow for beginners to OSS
+
+2. Are there any coding standards, I've never really expose to a strict coding standard in a project
+
+3. Are the changes I've made have any meaningful impact on the OS project",Agree,Strongly agree,Agree,Neutral,Neutral,Agree,Strongly agree,Agree,Agree,Neutral
+"1. review code was written by others
+
+2. collaboration between the different groups that are contributing to the same project
+
+3. understand the code instruction and set-up for the project(learn new technology if I am not familiar with the code) of an open source 
+
+4. fix/refine other people's code, this is particularly difficult when the documentation of the code is vague or the code is not written in an abstract way(i.e. too specific)
+
+5. understand the structure/design of the project on a grander scale
+
+6. optimize the our solution(e.g. consider time complexity, design patterns etc)
+
+7. applying developing method(e.g. agile, waterfall etc) to manage the project
+
+8. maintain communications between the group members 
+
+ 
+
+ ",Strongly agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree
+real industry issues,Agree,Strongly agree,Neutral,Agree,Agree,Agree,Neutral,Strongly agree,Strongly agree,Agree
+"Some challenges that we can encounter while contributing to an opensource project are - 
+
+*
+
+Failing to understand the complete project requirement.
+
+*
+
+Ineffective communication & collaboration.
+
+* Not being familiar with the programming language & frameworks used in the project.",Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+"1.Understanding the project's codebase: Contributing to an open source project requires a thorough understanding of the project's codebase. This can be challenging if the codebase is large or complex.
+
+2.Finding an appropriate issue: Open source projects typically have a large number of issues listed on their issue tracker. Finding an issue that matches your skillset and interests can be challenging.
+
+3.Communication and collaboration: Open source projects often have contributors from all around the world. Effective communication and collaboration with other contributors can be challenging, particularly if there are language barriers or time zone differences.",Strongly disagree,Agree,Agree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Neutral,Agree
+"* Gaining an understanding for the code base if its a particularly large project
+
+* Finding good documentation can often be difficult
+
+* Lack of testing can be a common problem with software projects
+
+* Knowing who to ask questions to could be difficult, unless clearly stated in project",Agree,Strongly agree,Agree,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+"The challenges which I think we might face as a team may be meeting deadlines and submitting a clean and secure code, coding in an acceptable coding standard, and documenting our contributions, to ensure the code is maintainable.",Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+"Understanding the code that is written by other people.
+
+Finding an area to innovate in to an existing project.
+
+Adding code that matches the pre-existing code style.
+
+Adding code that does not hinder / crash previous code.",Neutral,Strongly disagree,Disagree,Agree,Disagree,Strongly agree,Agree,Agree,Agree,Neutral
+Understanding business and other people's code is a big challenge.,Strongly disagree,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Neutral,Disagree,Disagree
+"One of the challenged I believe I will encounter is understanding the community culture. My understanding is that each open source community has its own unique culture and way of working and it is important to understand that culture and follow the project's guidelines and communication channels when making contributions. Although I am aware of this I am worried that as I have never made a contribution to open source code. Secondly, I am worried that I will struggle to find a suitable issue to work on. As open source projects often have a backlog of issues to work on, and not all of them are suitable for new contributors, I understand that finding a suitable issue can be challenging. This will be apparent as I am not familiar with the project's codebase. This means that when selecting an issue to work on I will need to ensure to not over-estimate or under-estimate my ability, especially as I know I am likely to second guess myself and overthink the selection of an issue.",Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Neutral
+Figuring out how much i can actually contribute or how much i can contribute,Disagree,Strongly agree,Agree,Agree,Neutral,Agree,Agree,Agree,Agree,Agree
+"* Finding suitable project: Whether I have experience working in the language/library needed for project that I am interested in
+
+* Technical skills: Whether my code/contributions will be approved, factors such as code quality, whether I have fully fixed the problem like bugs etc
+
+* Communication: Some contributions are pretty ""big"", meaning that the codebase is very big and complex where individual contribution is almost impossible. Having team work especially with people that you don't meet in person is a major issue in my opinion.
+
+* Contribution progress: Understanding the code written by other people is not an easy job especially when the codebase is very big. For example library like PyTorch (deep learning library) have many dependencies on other libraries, such as NumPy etc, and the code itself might have a function that needs other code and so on and so forth. One function that you want to fix might have code spanning across 3 or more files.
+
+* Rejection: Your contribution might get rejected if it does not fix the issue, not up to their standard or other factors. Sometimes you might spend many days or weeks working on the project and still get rejected after refining for many times. This can serve as a pressure to push yourself to improve your coding skills.
+
+* Keeping up with the changes: A popular open-source project might have many people from all around the world, trying to contribute to it. It is an uneasy task to keep up with all the changes, such as updates, rules, changes in contribution for an open-source project.",Strongly agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree
+"Contributing code with technical problems that take a lot of time to resolve.
+
+Need to take time to get to understand the project team and other contributors and learn about their expectations and requirements for code contributions.
+
+Follow and accept the project's licence.",Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,Agree
+Knowing what I should change or shouldn't touch may be the biggest challenge to me,Agree,Strongly agree,Neutral,Strongly agree,Agree,Neutral,Strongly agree,Agree,Neutral,Neutral
+I feel like I might have trouble understanding some segments of code and if there's a lack of documentation it'll be very difficult to understand what the code is doing.,Strongly agree,Strongly agree,Neutral,Agree,Agree,Neutral,Agree,Strongly agree,Agree,Agree
+"The first and foremost concern when attempting to contribute to an open-source project could be proper guidelines for all contributors. Besides, an increased number of contributors can be a bottleneck for the entire project because it becomes extremely difficult to review the submitted works. Therefore, the entire work progress of the project gets slower.  ",Agree,Strongly agree,Neutral,Neutral,Strongly agree,Strongly agree,Neutral,Neutral,Agree,Neutral
+"* Going through a common license 
+
+* Establishing a standard for code submission
+
+* Data Management and security 
+
+* Enforcement of policies and integration of policies into developer workflows
+
+* Assigning clear tasks and delegating responsibilities",Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+"Conflict in solution approaches
+
+Process and time management 
+
+ ",Agree,Agree,Neutral,Agree,Neutral,Agree,Agree,Neutral,Agree,Neutral
+"normally, open-source projects maintain a large codebase, and the underlay logics is hard to understand.",Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Neutral,Agree,Agree,Agree
+"* Writing a error free code as I'm not very good at coding.
+
+* Understanding the code. Like if a bug needs to be resolved in a code, I might find a bit difficult as I said that I'm not very good at coding. 
+
+ ",Agree,Agree,Agree,Neutral,Agree,Agree,Agree,Agree,Agree,Neutral
+"I might face coding style problem and testing problem, because every project may have different coding style and it could be difficult to test my code appropriately. ",Strongly agree,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+"Understanding the design patterns, conventions and code language that the source code is in. 
+
+Adjusting to the coding standards
+
+Collaborating with other developers
+
+Finding a source code that I have knowledge or experience in to make a noticeable contribution",Agree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Agree,Neutral,Agree,Neutral
+"I don't know that coding language. 
+
+The readme is not that detailed, so it's hard to understand their codes and add my codes. ",Agree,Agree,Neutral,Neutral,Agree,Disagree,Disagree,Disagree,Neutral,Neutral
+I am afraid to say that if there are more contributors then it means more risk. ,Neutral,Strongly agree,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
+"I consider there can be many challenges when contributing to an Open Source project. Among them, I believe mostly there can be miscommunication between contributors and misunderstanding the code because of the difference in code standards. There can also be the gap in ethnical aspects of each contributor. If the project is big, managing the contributors and monitoring their tasks would be challenging too. In addition, it would not be easy to reach the consensus for license for the final product. ",Agree,Agree,Neutral,Neutral,Disagree,Agree,Agree,Agree,Agree,Neutral
+I think I don't have enough coding skills to make a contribution,Neutral,Agree,Neutral,Neutral,Agree,Agree,Agree,Agree,Agree,Agree
+"The speed of change of code can be a challenge which means I will have to keep up with the other contributors.
+
+On the other hand lack of progress of the project is another challenge that I might have to encounter as different tasks will be assigned to different contributors and if tasks are not clearly assigned then there can be some tasks which will have no contributor assigned which will in return hinder the progress of the project.",Disagree,Strongly agree,Agree,Neutral,Neutral,Agree,Strongly agree,Agree,Agree,Neutral
+"As I have never made a source code contribution in any Open Source Project. So, According to me, I think I will face the following challenges.
+
+*  Understanding guidelines and rules of the community.
+
+* Some tools like (Pull Requests, Issue Tracker).
+
+* How to clone a project.
+
+* Understanding the procedure to make a contribution.
+
+* Knowledge of different programming languages.
+
+* Understanding different approaches.
+
+* How to submit my contribution.
+
+* How to merge a pull request into my local project copy.
+
+Right now I can think of only these but I know there is a lot to learn and while learning, I will face even more challenges.",Neutral,Strongly agree,Agree,Neutral,Agree,Strongly agree,Strongly agree,Neutral,Agree,Neutral
+"* Understanding the project structure, and how to familiarize with the codebase, the development process, and the workflow.
+
+* Finding the suitable task. There will be list of tasks available, it is impossible that I can figure out all of them, how to find the suitable one may be difficult.
+
+* Dealing with feedback and collaborating with other contributors. Once submitting the code, the feedback can be challenging to deal with, especially if it is critical or if it requires significant changes to code. And it will be difficult if there are communication barriers when I have conflicting ideas about how to approach a problem.",Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Neutral,Agree
+"Interpreting other's code in an entirely new format, embarrassment if a contribution is not up to standard (code being seen by everyone if a mistake is made)",Agree,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Agree
+" The biggest challenge that will struggle me to contribute to an open-source project is we have to mix in the collaborative pattern of this project. Every project has different teamwork culture and different requirements for code quality. Trying to have more communication with the team members and learn more about the history of this project, I think that could be the only way for me to contribute to this better than others.",Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree
+"* Understanding other people's code
+
+* Following a particular code style
+
+* Reading through documentation
+
+* Understanding the structure of the project
+
+* Interacting with project contributors from diverse backgrounds
+
+* Keeping up to date with new developments in the project",Agree,Agree,Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Neutral
+"* Finding a project which suits my technical skills
+
+* Bugs or features that are available, can those be fixed by the level of expertise I have in that domain?
+
+* Understanding the code base without anyone giving knowledge Transfer.
+
+* Self-confidence. ",Agree,Agree,Neutral,Neutral,Disagree,Neutral,Agree,Neutral,Agree,Agree
+"For writing code and understanding how to solve problems when they are encountered.
+For the handling of special problems
+For understanding of the project",Agree,Agree,Agree,Neutral,Agree,Agree,Agree,Neutral,Strongly agree,Agree
+"Possible issues expected include:
+
+1. Poor communication in code collaboration
+
+2. Unable to correctly run or understand other people's code
+
+3. There is no guarantee that each contributor is responsible for the code they contribute
+
+4. Cooperation between multiple people may bring security risks",Agree,Agree,Neutral,Neutral,Agree,Agree,Agree,Agree,Agree,Neutral
+The challenges I expect to encouter when making a contribution to an Open source project is that I am not sure if I follow the restrictions of the open source protocol and my code is good enough to be considered as contribution.,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+To find a feasible problem to work on,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+首先，开源项目的代码将是庞大而复杂的，理解新项目对我来说应该是具有挑战性的。其次，贡献的代码需要与开源项目兼容。最后，与团队成员和其他贡献者进行有效协作。,Agree,Neutral,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree
+"Wait for review from project's coordinator. The result can be a denial if untested cases are found which cause the project to be unstable, and might need to submit multiple revision.",Strongly agree,Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Neutral,Neutral,Neutral,Neutral
+"I need to make sure the robustness of my code, and my code should be clear so that others can easily understand and improve it. ",Agree,Agree,Neutral,Neutral,Neutral,Agree,Agree,Agree,Agree,Disagree
+"Following are some of challenges;
+1. Understanding the project structure: The first and foremost challenge is to understand the project structure, how it is organized, and how it works. Different projects may have different structures, so understanding it might take some time.
+
+2. Getting familiar with the programming language and tools used: To make a contribution to an open-source project, you should be familiar with the programming language used and the tools used by the project. If you are not familiar with the programming language and tools, it may take some time to learn them before making a contribution.
+
+3. Finding a task to work on: Some open-source projects have a large code base, and it can be challenging to find a task to work on. You may need to communicate with other project contributors or check the project's issue tracker to find a suitable task.
+
+4. Understanding the project's coding standards: Every open-source project has its own coding standards, which should be followed while making a contribution. Understanding these standards can take some time.",Neutral,Agree,Neutral,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Strongly agree,Agree
+"1. Unable to understand other people's code.
+
+2. Can't locate the bug.
+
+3. Find the bug but don't know how to fix it.",Neutral,Neutral,Disagree,Disagree,Neutral,Neutral,Agree,Agree,Agree,Strongly disagree
+"* The review process may result in many changes required, depending on code style requirements or the context that may require the preservation of a certain coding pattern.
+
+* Large projects tend to be a quagmire to work through, so the biggest challenge would be getting acquainted to the architecture itself.",Strongly agree,Strongly agree,Neutral,Neutral,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Disagree
+"Understanding of the project.
+
+Finding what I could do in the project.",Agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Disagree,Neutral,Agree,Agree
+"I think one major challenge is that I'm not very familiar with their code, and don't know how to fix bugs or add new features based on original code. For my own experience, this is probably because the programming language, or framework that open source projects used are vary. I've seen projects written in Java, Go, JavaScript, Rust, Elixir, etc. I can't familiar with all of these programming languages. Another thing I think is that it may not easy to initialize the debug and develop environment. For some programming languages and frameworks it's can be a little bit complex.",Agree,Strongly agree,Neutral,Agree,Agree,Agree,Agree,Strongly agree,Neutral,Agree
+"1. Maybe some people will copy my code as their own work.
+
+2. In comparison with other people, I may feel that I can't do as much as them.
+
+3. Maybe I don't know what to contribute to an Open Source project.
+
+4. I don't know how to write code in git.
+
+5. Maybe I'll get a coded attack from it.
+
+ ",Neutral,Neutral,Neutral,Neutral,Neutral,Agree,Agree,Neutral,Neutral,Neutral
+"First, I will face the challenge which is how to use the GitHub website. Second, I will face the challenge which is how to use Git, Third, I will face the challenge which is the communicating with the open-source project author, Fourth, I will face the challenge which is the cooperate with my group mates, Finally, I will face the challenge which is how to code correctly.",Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Strongly agree,Neutral,Agree,Neutral,Neutral
+"I feel like that the challenges that I will encounter when trying to make a source code contribution is understanding complexity of the code, scaling of the open source project, taking into consideration who is going to read the code and how to provide clean and readable code for the whole community to understand. ",Neutral,Agree,Neutral,Disagree,Agree,Agree,Strongly agree,Neutral,Agree,Agree
+The correctness and validity of code.,Neutral,Agree,Neutral,Neutral,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Neutral
+"1.communicate with others maybe a problem.
+
+2.Everyone has different thinkings.",Neutral,Agree,Neutral,Neutral,Agree,Agree,Agree,Neutral,Neutral,Neutral
+"As the project is open sourced, the codebase may utilise multiple standards due to contribution from multiple third parties and may not have a coherent code structure, leading to additional time required to familiarise myself with the codebase. Documentation may also be lacking in certain areas due to these factors, making the process harder initially.
+
+As the project is open sourced and potentially already publicly running, pushing code onto the feature branch can come with risks if the code isn’t sound. Being a publicly accessible project comes with its own challenges both feature and security wise. Factoring code to be feature ready will be a challenge, therefore feedback from contributing members and working from it will be crucial to eventually arrive at said point.",Neutral,Strongly agree,Agree,Agree,Agree,Agree,Agree,Agree,Neutral,Agree
+"* Inconsistent code formatting
+
+* inconsistent code quality
+
+* Other contributors making conflicting changes",Agree,Strongly agree,Agree,Agree,Neutral,Neutral,Strongly agree,Strongly agree,Agree,Neutral
+"Understanding the existing code to make sure that the new implementations work well with what's already there.
+
+Understanding the code design decisions and the practices already in place for the project so that the new contribution does not conflict with them.
+
+Ensuring that the contribution is robust and does not cause any bugs with the functionality of the project.
+
+Ensuring that thorough integration testing is performed so that any issues with the integration into the source code are found and handled before pushing them. 
+
+Understanding the intent behind the software so that contributions made are within scope.",Agree,Strongly disagree,Neutral,Agree,Neutral,Agree,Agree,Strongly agree,Agree,Agree
+"1. It is hard to communicate with other team members in the open source community (e.g. remotely communications) or to keep track of changes made by them. The larger the community, the harder the communication will be. Imagine we have N members in the community, the communication is scalable to N^2.
+
+2. Does the Open Source project have specific guidelines or coding styles? It may be hard to follow the standards that are different from mine. Also, my code need to be in high quality.
+
+3. The code have to have some compatibility that fit into different environments. Different team members may have different system environments (e.g. operating system, programming languages, hardware, etc). I have to make sure that the code  is usable if there are requirements for cross-platform.
+
+4. It is hard to manage pull requests.",Neutral,Strongly agree,Disagree,Agree,Neutral,Strongly agree,Agree,Strongly agree,Neutral,Neutral
+"Code writing habits, each contributor has different creative ideas.",Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+understand  the pre-exisited codes and the data structure.,Strongly agree,Strongly agree,Neutral,Neutral,Strongly agree,Disagree,Strongly agree,Strongly agree,Neutral,Agree
+"I think that there will be some challenges in the fact that the structure may be a bit challenging to get my head around since I believe each project would be a bit different with how they go about it which might cause a bit of a steeper learning curve to start.
+
+Another challenge could be that I might not understand all of the best coding conventions and considerations since I am still early in my coding time and so my contributions to code may not be as helpful or I could create vulnerabilities/bugs without realising it.
+
+I think that another challenge will be that the code base may be confusing. Being a large project, it can be hard to understand the flow of the code and so this may make contributing much more challenging since I will have to figure out how the code works to start with before being able to contribute to it.
+
+The previous point raises another potential challenge which is that it might be hard to know where to start with the project since there are so many avenues and issues to start with as well as knowing the project and the codebase which can all lead to a potentially confusing start",Agree,Strongly agree,Agree,Agree,Neutral,Agree,Agree,Agree,Agree,Neutral
+"I believe that a challenge will be getting my head around the project as a whole, since it will most likely be quite a large project, and so it will be challenging to understand what is happening.",Neutral,Strongly agree,Neutral,Neutral,Neutral,Agree,Agree,Neutral,Agree,Neutral
+"Understanding software content - I need to use the software for quiet sometimes in order to understand what it does/what needs to be improved
+
+Steep learning curve - each OS project has their own way to organise their code and modules.",Strongly agree,Strongly agree,Neutral,Agree,Agree,Neutral,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+I expect that I will be unfamiliar with the inner workings of the source code and there will be a huge learning curve at first to simply understand what things do.,Agree,Strongly agree,Agree,Agree,Neutral,Neutral,Agree,Strongly agree,Agree,Neutral
+Code Understanding. Because I am expecting that our group doing code contribution to OSS.,Neutral,Neutral,Disagree,Agree,Agree,Agree,Agree,Agree,Agree,Neutral
+"1. 我只是猜测，如果项目有的话，与主管的沟通可能会是一个挑战。因为每个开源项目的所有者或主管来自不同的国家。然后，我们可能会错过一些重要信息或远离项目目标。 
+
+2. 编程习惯可能是一个挑战，因为每个人都有不同的编程习惯。对于解决方案，我认为我们可以添加详细的注释以使代码易于理解。",Strongly agree,Strongly agree,Neutral,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Neutral,Strongly agree
+My coding style or commit style won't match that project's requirements. I might create bugs and glitches just because I don't have a good understanding of others' code.   ,Strongly disagree,Strongly disagree,Neutral,Neutral,Disagree,Strongly agree,Agree,Agree,Agree,Neutral
+"Firstly is teamwork, working with different people from different backgrounds and different practices will be a challenge. Secondly, will be technical challenges and trying to understand the existing project and to make sure to understand the rules of the project and contributing in such a manner that the project is benefited and is in the forward direction.",Agree,Strongly agree,Agree,Neutral,Agree,Strongly agree,Agree,Agree,Neutral,Agree
+"1. Understanding the culture of the specific open source project;
+
+2. The contribution process takes many steps and it requires a fair bit of effort to follow it;
+
+3. Coordination with members in the community.",Disagree,Strongly agree,Agree,Strongly agree,Disagree,Agree,Agree,,Agree,Agree
+understanding the existing code base especially if there are limited or no comments.,Disagree,Strongly agree,Agree,Agree,Neutral,Agree,Agree,Agree,Agree,Neutral
+The main challenges I foresee are setting up the development environment if it is not containerised/poor documentation.,Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+"Interpersonal issues with the product owner and my own vision.
+Understanding how to contribute to a large and mature code base.",Agree,Strongly agree,Neutral,Agree,Agree,Strongly agree,Strongly agree,Agree,Neutral,Neutral
+"Understanding the code base and trying to find an area to make a meaningful improvement- if something is already done in one way, how do I know if my way is better or won't break something else.",Neutral,Strongly agree,Agree,Agree,Neutral,Strongly agree,Strongly agree,Agree,Strongly agree,Agree

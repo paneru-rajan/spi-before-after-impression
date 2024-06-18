@@ -1,0 +1,330 @@
+1947797: What challenges did you encounter when trying to make a source code contribution to an Open Source project?,1947798: I feel comfortable asking for help from the Open Source community using electronic communication means.,1947799: I can write my questions and understand answers in English.,1947800: I am good in understanding code written by other people.,1947801: I have pretty good skills to write and change code.,1947802: I feel comfortable with the process of contributing to an Open Source project.,1947803: I think that contributing to an Open Source software project is an interesting activity.,1947804: I feel I can set up and run an application if a set of instructions is properly given.,1947805: I am pretty good at searching for solutions and understanding technical issues by myself.,1947806: I can choose an adequate task to fix if a list of tasks is given.,1947807: I can find the piece of code that needs to be fixed given a bug report presenting the issue.
+了解和诊断问题、协作和及时性、代码审查和质量控制。,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree
+"Throw a connection errors or exception. 
+
+ the handling of the connection string is not appropriate, contains incorrect or insufficient values 
+
+* reason 1 is connection failure, the connection URL is incorrect, the database driver fail to establish a connection to the database server, which result in connection errors or exceptions being thrown. 
+
+* reason 2 is authentication failure, the connection string contains incorrect or insufficient credentials, the database server reject the connection attempt due to authentication failure. ",Agree,Agree,Neutral,Agree,Strongly agree,Strongly agree,Neutral,Agree,Agree,Neutral
+"Mostly 2 main challenges that I can see:
+
+* Code quality of students are usually not up to par compared to industry devs.
+
+* Open source projects are complicated and takes a lot of time to be familiar with since it makes use of good OOP design principles + design pattern that I often dont encounter in uni projects.",Agree,Strongly agree,Neutral,Neutral,Agree,Agree,Strongly agree,Agree,Neutral,Agree
+"Communication with the community and getting an understanding of how they teamwork, we have to fix this kind of teamwork culture.",Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+"1. To learn about the detailed steps of contributing to an open source project, like  pulling request.
+
+2. To learn using wiremock, a test tool.
+
+3. Bypassing native java limitations.",Strongly agree,Agree,Agree,Neutral,Strongly agree,Strongly agree,Agree,Agree,Agree,Neutral
+The main challenge I faced was when trying to write test cases I had to consider the functionality of the whole component involved as it would affect the whole component as a whole. With the documentation that were available it was not difficult to understand what the functionality as a whole was.,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree
+"The process of setting up Snipe-IT on a Windows system was found to be more intricate than on a Mac, necessitating extra troubleshooting and configuration efforts.
+
+Snipe-IT is a substantial project with a repository containing 1.3k issues and 57 pull requests.
+
+A significant number of these issues were either irrelevant or outdated, with some dating back to 2017, which made it challenging to identify contemporary problems that needed resolution.
+
+Certain issues constituted very individualized feature requests, indicating that they couldn't be replicated or dealt with.
+
+Complex issues were also present, demanding a level of knowledge beyond what was readily available for their resolution.
+
+In some instances, issues or pull requests were turned down by the project proprietor due to concerns over compatibility or for other reasons.
+
+For instance, Issue #8449 (link) constituted a personal feature request that wasn't feasible for implementation.
+
+Similarly, Issue #663 (link) was dismissed by the project owner due to apprehensions about compatibility.
+
+In another case, Pull Request #13073 (link) repeatedly encountered obstacles during attempts to merge branches.",Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+"There are several challenges that I have encountered while contributing the open source project. First of all, being able to identify the cause of the issue is challenging. If we are thinking of contributing in terms of technical perspective, we need to know why and how the issue is needed to fix. To do that, having a certain skill to understand others' code is needed too. If they are having a strict coding standard, it takes a bit of time to understand, but it is manageable. Another challenge is that being able to replicate the issue in local system. The instructions must be given clearly by repository owner for us to understand the issue. Writing tests is also one of the difficulties for me to make sure the fix is working. Other than the technical aspects, managing the timeline is also challenging. Also, concise communication needs to be done within community so that there will not be misunderstanding. These are the main challenges I have encountered during the project.",Agree,Strongly agree,Agree,Neutral,Agree,Agree,Agree,Agree,Neutral,Neutral
+"1. The most difficult aspect was comprehending the codebase of such a substantial project.
+2. There were instances of misunderstanding with the issues related tasks.
+3. Team communication presented a challenge, as there were times when not everyone was accessible, resulting in communication breakdowns and misinterpretation.",Neutral,Agree,Disagree,Neutral,Agree,Neutral,Strongly agree,Agree,Agree,Agree
+"* Understanding the structure of such a large project was the most challenging part
+
+* Misunderstanding with project maintainers
+
+* Team communication was a challenge, not all the time everyone was available, but it could lead to communication breakdown and miscommunication",Agree,Agree,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree
+It takes time to learn the structure and discipline of the project to ensure that the code meets the requirements of the project.,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree,Agree
+"1.Communcation
+
+2.Technical
+
+3.Team work 
+
+4.Project Management",Strongly agree,Strongly agree,Neutral,Neutral,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree
+"don't know the structure of project.
+
+ need to learn the programming language. 
+
+pull request been rejected",Agree,Disagree,Strongly agree,Strongly disagree,Neutral,Strongly agree,Disagree,Neutral,Neutral,Agree
+"The first problem I had was figuring out how to use the drag-and-drop event, which I had never seen before, in a tool I had never used before. It was possible to figure out what the code did by looking at other functions in the package that were linked to it.
+
+Setting up the application was also hard to understand at first look. Yi and I used word searches to find the most important files to solve this problem. After that, the print method was added to different parts of the software and tried by hand to make it easy to understand what it does and how it works.
+
+Also some known issues were:
+
+* Open-source projects sometimes include thousands of lines of code and several interrelated components. Newcomers may struggle to comprehend how everything works.
+
+* Some open-source projects are unclear about where aid is required or what jobs are suited for newbies. Finding a task that fits one's talents and experience level in issue trackers might be intimidating.
+
+* Language, time zone, and cultural factors might make communication harder in open-source projects with international partners.",Agree,Neutral,Agree,Neutral,Agree,Agree,Neutral,Agree,Agree,Neutral
+"Installing Snipe-IT on Windows proved to be more complex compared to Mac. It required additional troubleshooting and configuration steps on Windows, adding to the challenges. One challenge was dealing with old issues that weren't relevant anymore. This made it hard to find current problems to solve and places where I could contribute effectively. Also encountered requests for specific features that were more personal than general. Unfortunately, these couldn't be recreated or addressed, limiting my contribution possibilities. Some problems in Snipe-IT were complex and required in-depth knowledge of the project's architecture and code. I faced a learning curve to understand these challenges and find solutions.  Sometimes the pull requests were rejected because they didn't fit well with the project's compatibility or other requirements.  
+I have faced one of the biggest challenge while merging the PR, the issues was # 13073 deleted component showing in assets but unfortunately I am having some problem with the GitHub it’s showing I have changed 43 files which I didn’t. I have encountered the same issues multiple times with the branches. So I have closed the PR and done through other teammate repository. The PR was finally merged after that. ",Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree
+"The main challenges that I faced while contributing to an open source projects were:
+
+* To understand the given set of code as not every code present was totally understandable, some were complex too. 
+
+* I faced issues while merging the PR.
+
+* Some projects had specific set of guidelines so it was not easy to adhere to those guidelines.
+
+ ",Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree
+"1. Reply speed
+
+* Not all open-source projects have community members that are very active. Some of them reply in a few hours and some do not reply at all. Also, the reply speed is not consistent because everyone has their own other commitments outside of the open-source project that I am contributing too. Therefore, communication can be a hard part due to the time it takes for them to reply, which is important so that I know which area I should be working on after that.
+
+2. Understanding code
+
+* I  have experience reading and changing other people's code. However, the project that I am working on has a really large codebase, given that it is a deep learning library. Therefore, I am not surprised by that and I am mentally prepared before I started this project. The contribution that we did is to fix a very small bug but it is identified as ""advanced task"" at the task list because of the large codebase, where one change might affect many different files and we need to make sure that all files are modified in a correct way to avoid causing other bugs.
+
+3. Code rule
+
+* Every open-source project has different coding rules, and the rule is the structure of a project which allows a project codebase looks more consistent and ""elegant"" even many people are contributing to it. It takes time for me to understand the logic in such large codebase, and also figuring out the rule used (structure of the project) as not all rules and regulation are well-documented in the open-source project.
+
+Challenges written above are expected before I started this open-source project, given that I have experience working on open-source project and group work before. However, as this is my first time working on such large codebase, problems that I faced are very tiny problems but they taught me a lot which enables me to work better in the future, not only from technical perspective but also communication, code quality and fast learning skills.",Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+At first there was a problem with the environment configuration. But the problem was solved by the group. There were also problems with the code later on. But this was solved by contacting the reviewer and the team.,Strongly agree,Strongly agree,Neutral,Neutral,Agree,Agree,Agree,Neutral,Agree,Neutral
+The F*ck,Agree,Strongly agree,Neutral,Neutral,Agree,Agree,Strongly agree,Neutral,Agree,Neutral
+"1. I find it hard to find an appropriate issue to be solved in the issue list that fits into my (and our team's) level of coding. 
+
+2. I find the scale of the project so overwhelming that it is hard to get a grasp of the whole project.
+
+3. It is hard to make the code accepted because it needs to be in accordance with the guidelines, tests and needs of the community.",Agree,Strongly agree,Strongly disagree,Disagree,Agree,Agree,Agree,Disagree,Disagree,Disagree
+"In our team, we made three attempts to contribute. Firstly we found an issue with fixing a lexer. However, it is too hard to comprehend a parser and Abstract Syntax Tree (AST). My teammates and I spent two weeks learning Compiler Principle. Finally, it failed. 
+Afterwards, we moved on, looking for another issue. Then we decided to contribute a new style for Pygments, and we found out that style list is not sorted. So we submitted two PRs, one for a new style named Eclipse Style, the other for sorting style list alphabtically. The first PR was rejected while the sorting was merged.
+We set a goal that was hard to reach at the begining, that is why we had to overcome a series of diffculties.",Agree,Agree,Disagree,Disagree,Agree,Disagree,Agree,Disagree,Disagree,Disagree
+"Lack of familiarity with guidelines and code style. 
+
+Understanding existing code.
+
+Receiving feedback from admin and project maintainers.",Strongly agree,Strongly agree,Neutral,Agree,Agree,Strongly agree,Agree,Agree,Agree,Neutral
+"First I have to read the code from the scratch. I have no expericen with the drag and drop event at the first time and have to find out how to use it by looking other functions. Then I don’t know the structure of the application. To overcome this challenge, I will first search keywords and find the most likely file. Then I display print function in different places and try to trigger the print function manually. If I can’t still find what I want, I will look for the advice of communities.",Strongly agree,Agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree
+"The main challenge was figuring out how to add something to an existing code base. Even what seemed like a simple addition required having to read through file after file. What made it especially tricky, is that the underlying libraries used in the project had recently been updated, with major changes to code structure. The feature I helped to create had apparenlty already been made in the previous version, but not merged. Even with the code from this pull request, adapting it into the new version of the project was tricky.",Agree,Strongly agree,Agree,Agree,Agree,Neutral,Agree,Strongly agree,Agree,Neutral
+"One of the biggest challenges we experienced was understanding the code and its style. Making sure we knew what everything did, and how we were expected to implement things was quite time consuming and a challenge.
+
+Another challenge was the inactivity of the projects owners as it meant that our pull request did not get reviewed when we would like.",Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Neutral,Agree
+"An initial challenge I faced involved setting up the environment to be able to run the development version of the application I was working on. The environment required a specific setup, with specific versions of various packages and modules. Figuring out the required installations and setting everything up was somewhat troublesome for me, although it was significantly aided by the documentation.
+
+Another issue I faced involved understanding the existing code base. The project I contributed to consisted of a reasonably complex code base with many different directories and tools that needed to work in very specific ways. I took some significant time to understand where everything was and what I would need to do to contribute.
+
+ ",Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree
+"The main problem I faced was that the project's admins and moderators are not very active, so it takes a long time to get any feedback for code reviews. It can't be helped because it's a small and not very well known project.",Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree
+it takes time to receive respond from project's maintainer on the issue,Strongly agree,Strongly agree,Neutral,Neutral,Agree,Agree,Agree,Neutral,Neutral,Neutral
+"When I first started contributing to open-source projects, one of the major challenges I faced was becoming familiar with the codebase. Understanding the project's structure, architecture, and coding conventions took time and effort. It required me to dig into the existing code, read documentation, and analyze the project's source files.",Strongly agree,Strongly agree,Neutral,Neutral,Agree,Neutral,Agree,Agree,Agree,Disagree
+"*
+
+Technical Challenges: One of the main technical challenges we faced was the initial test failures after our modification. Our attempt to resolve the learning rate display issue resulted in multiple test cases failing. This meant we needed to go back, analyze what was causing these test cases to fail, and then rectify these issues to ensure that our modifications would be accepted by the testing system.
+
+*
+
+Complexity of Changes: Our solution involved changing important and critical parts of the code, including the introduction of a new ""tracker"" element to the optimizer's param groups, and the modification of class attributes. It was challenging to make these modifications without causing any unwanted side effects or disruptions to other parts of the system.
+
+*
+
+Ensuring Compatibility: While making these changes, we also had to ensure that we maintained compatibility with the state dictionary of the optimizer. This required a deep understanding of the system's architecture and the careful planning of our modifications.
+
+*
+
+Potential Conflicts: Our reviewers raised concerns about potential conflicts due to our direct addition of a parameter group to the optimizer. To address these concerns, we had to devise a new approach that involved creating an additional abstraction layer on top of the torch optimizer, called the Optimizer Wrapper. This allowed us to avoid direct modification of the param groups and thus minimize potential conflicts.
+
+*
+
+Review Process: Because the OpenMMEngine is a foundational library that is the base for downstream repositories, the review process was particularly strict. We had to ensure the absolute correctness of our modifications given the significant impact they could have. This necessitated careful coordination with the reviewers and the requirement of double confirmation before the changes could be merged.
+
+*
+
+Understanding the Project Structure: Open source projects, especially larger ones, can have complex structures and massive codebases. New contributors may find it challenging to navigate this structure and understand how different components interact with each other. Moreover, the lack of in-depth documentation or explanations can also make this a daunting task.
+
+*
+
+Communication and Collaboration: Open source projects typically involve contributors from diverse backgrounds and different parts of the world, which can lead to communication challenges. It can be difficult to coordinate efforts, particularly when different time zones are involved. Moreover, gaining consensus on design decisions or strategies may also be challenging due to the variety of perspectives and approaches. Clear, effective communication is essential to ensure that everyone is on the same page, and that contributions align with the project's objectives and standards.",Strongly agree,Strongly agree,Agree,Neutral,Strongly agree,Strongly agree,Agree,Neutral,Strongly agree,Neutral
+我需要花很多时间了解项目和issue的需求，思考如何改进issue。,Strongly agree,Agree,Neutral,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree
+"Firstly, the code base of open-source projects could be complex. When I contributed to JabRef, it took some time for me to figure out the problem and locate the corresponding Java code. That's about more than technique and skill. Even after I've read some tutorials about the technology used in JabRef, such as JavaFX, I still need to search in the code to find the implementation details I need and try for a long time to understand them.
+Then, it's about how I can produce code that meets their requirements. In order to achieve this, I've read their documents carefully and keep contact with members of the JavRef project. Luckily the JabRef project is friendly to new contributors. But I've seen other open-source projects before, whose members sometimes seem confused and astonished about some PRs.",Agree,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Strongly agree,Agree
+"1. As I start exploring the code,I find it challenging to comprehend the complex interactions between modules and classes. This makes it difficult to identify the appropriate location to introduce my changes and understand the potential impact on other parts of the project.
+
+2. While working on a new feature, I realised that the implementation I am considering could potentially break backward compatibility with existing code. I am unsure how to proceed without causing issues for users who rely on the library's previous versions.",Agree,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Neutral,Agree
+"*
+
+Understanding the Project: Open-source projects can be complex, and it can take some time to understand the codebase and architecture.
+
+*
+
+Setting Up the Development Environment: Every project has its own set of tools, libraries, and frameworks. Setting them up can be difficult, especially if the documentation is not clear or up-to-date.
+
+*
+
+Lack of Documentation: Some open-source projects might not be well-documented, making it harder to understand what the code does and how to contribute effectively.
+
+*
+
+Code Standards and Quality Assurance: Each project has its unique coding standards and guidelines. Adhering to these can be challenging, especially for newcomers.
+
+*
+
+Communicating with Other Developers: Communication can be difficult, especially if there is a time zone difference or language barrier with the project maintainers or other contributors.
+
+*
+
+Dealing with Rejection: Contributions might not always be accepted. Rejections can be due to a variety of reasons like not meeting the project guidelines or if the contribution doesn't align with the project's roadmap.
+
+*
+
+Keeping Up with Changes: Open-source projects can evolve rapidly. Contributors need to regularly sync their forks with the original repository to avoid merge conflicts and stay up-to-date with the latest changes.
+
+*
+
+Testing: Ensuring that the code works as expected and does not break any existing functionality can be a challenging task, especially in large projects with extensive codebases.",Strongly agree,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Strongly agree
+"* Big project so it took a long time for me to understand how it works (1.3k issues and 57 PRs in the snipe-it repository).
+
+* While searching/exploring issues:
+
+* Many issues are irrelevant or very old so they might be solved e.g. from 2017 !!
+
+* Some are very personal feature requests; Hence those issues can not be recreated.
+
+* Some are very complex, and don't have enough knowledge to solve them.
+
+* Some issues/PRs are rejected by the owner due to compatibility issues or other reasons.",Agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree,Agree
+"Get familiar with the project: Understanding the structure, architecture, and goals of the entire project will take some time and effort. Large open source projects often have complex codebases and workflows, so understanding them can take time.
+
+Development environment setup: Before contributing code, I need to setup and configure a development environment locally. This involves installing specific programming languages, dependencies, and tools, and the process varies from project to project. This process will have some technical difficulties and challenges.
+
+Understand project norms: Every open source project has its own unique coding norms and contribution guidelines. Following these conventions is very important for code consistency and project maintainability. Understanding and following these norms takes some time and getting used to.
+
+Collaborate with the team: I contribute code with other developers, so it is also a challenge to cooperate and communicate with the team. I need to understand the team's workflow, communication channels, and code review process to ensure my contributions fit smoothly into the project.
+
+Problem solving and feedback: In the process of contributing code, I will encounter various problems and bugs. Solving these problems required some research, experimentation, and sometimes collaboration with other developers. Additionally, I receive feedback from project maintainers and other contributors to improve my code.
+
+Version control and code management: Most open source projects use a version control system such as Git to manage code. I'm not familiar with these tools and it's been a challenge to learn and use them. It's also important to understand concepts like branches, merge requests, and code merging.",Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree
+"Making a source code contribution to an Open Source project had challenges like understanding the project's code and practices, following coding standards, grasping the existing architecture, dealing with technical complexities, and complying with licensing requirements. Despite the difficulties, it was a rewarding experience for learning and collaborating with the community.",Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Agree,Agree
+"Difficult to understand the structure of the project code.
+
+Lack of experience of testing codes.
+
+ ",Agree,Agree,Neutral,Strongly agree,Neutral,Neutral,Agree,Agree,Agree,Strongly agree
+"Our main challenge was that we did not recieve feedback on our pull request, so it was difficult to gauge whether our contribution was recieved well or not",Disagree,Strongly agree,Agree,Neutral,Neutral,Neutral,Agree,Agree,Agree,Agree
+"There were many challenges we encountered while making a contribution to an open-source project.
+
+1. Firstly it was tuff to find a project in which we can contribute to our full potential. we changed this project two times and finally end with Snipe-it.
+
+2. We performed some fixes in the project but after we found that this issue is already fixed, which sometimes causes problems.
+
+3. Some of the PR we worked on is closed and difficult to access.
+
+ ",Disagree,Agree,Agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree
+Difficulty setting up development environment; missing assumed dependencies and sifting through bloat output during setup to find relevant errors.,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree
+"* Selecting proper issue: The issue I chose is JabRef CLI help output. I need to take responsibility of the code that I contribute, so I should evaluate my own capacity and ability of solving issue. It is the first time I contribute to open-source project, so I choose to start from low level issues or the issues that is not critical or serious like bugs. 
+
+* Solving issue: It was all good from environment setup to the implementations. However, I encountered with severe problems in PR check. I failed to pass PR check up to 5 times. It was super time consuming, and I need to check the log from GitHub. Problems include the import order, code formatting, comments formatting and even update Changelog.MD. They always require unit test if possible and many compulsory checklists when writing markdown comments.
+
+* Forking: There are many repository contributors have access to open-source project, so I need to fetch the updates from main repository, and keep our folk synced/up to date, so that I can commit successfully. 
+
+* Communication: Coding by myself is relatively easy. However, there are many repository managers in open-source project. My operation has great impaction on them. For example, I closed my PR as it failed in code style check, so I reopened it. This operation triggers the GitHub automatic notifications, so the manager complains to me that their inbox was messed up. They received about 10+ notification emails. Apparently, I apologized to them.
+
+*",Strongly agree,Strongly agree,Strongly agree,Strongly agree,Neutral,Strongly agree,Strongly agree,Strongly agree,Agree,Strongly agree
+"Numerous challenges were encountered when trying to make a source code contribution. One such challenges was contributing to an open source project for the very first time. It was very daunting to contribute to a project for the very first time but after observing numerous issue contributions and source code contributions seeing how friendly and encouraging the community was made the task more of a heartening endeavour. Everyone was nice and helpful, which made the community feel warm and welcoming to any new contributor welling to make new contribution to the open source. Another challenge that was encountered was understanding the source code. Many people have different way of coding, there is no standardize way of coding, so reading through and understanding what each code of line did was arduous task but thanks to the comments provided by previous programmers it made the task slightly less difficult but non the less still difficult. ",Agree,Agree,Agree,Neutral,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree
+"The standard expected for contributing to open source is higher than what we are typically used to as a uni student. There are new concepts that I had to learn in order to meet the requirements for submission. Additionally I got feedback from multiple different people each with different suggestions, sometimes with conflicting suggestions. This meant that I had to ultimately research and find what path I wanted to take and then discuss with them.",Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+"The biggest problem we encountered was choosing the wrong issue to solve, and after we solved it and submitted it, the repository manager told us that the problem was not for this project, but for another project. There are other problems, such as not getting a timely response from managers, not being able to use the project itself, can't understand other people's code, not being able to find the right problem for our level, and so on.",Neutral,Neutral,Disagree,Disagree,Neutral,Disagree,Strongly disagree,Disagree,Disagree,Neutral
+"对我来说最大的挑战是与管理员的沟通。由于我在开发团队中的任务专注于编码，因此我经常需要提交拉取请求。但是，我只能访问管理员的电子邮件，这不是一种有效的通信方式。
+
+除此之外，我没有遇到任何重大挑战。我们的开发团队通过 Slack 和微信等平台保持频繁的沟通。这使每个团队成员可以随时了解项目的最新进展。",Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Strongly agree
+I think it was the length of the processes; it wasn't assured that we would get any response!,Neutral,Agree,Neutral,Neutral,Neutral,Agree,Agree,Neutral,Neutral,Neutral
+"The general challenges we faced were time management and setting up meeting ceremonies, ensuring adequate testing was provided before raising the PR, and ensuring all team members were on the same page with the task description, solution, and testing strategy. ",Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+"1. Familiarize and understand the project: Understanding the project's code base, structure, and architecture may require some time and effort. Understanding the project's goals, design principles, and existing functions is crucial for making meaningful contributions.
+
+ 
+
+2. Collaboration and communication: In open source projects, communication and collaboration with other contributors and project maintainers are crucial. This may involve discussing your ideas with others, explaining your modifications, and receiving and handling feedback and comments from others. Good communication and collaboration skills are important factors in becoming an effective open source contributor.
+
+ 
+
+3. Understand code specifications and styles: Each open source project has its own code specifications and style guidelines. Ensure that you are familiar with the project guidelines and follow these specifications when writing code to ensure that your contributions are consistent with the project.
+
+ 
+
+4. Problem solving and debugging: During the process of contributing source code, you may encounter problems and errors. Solving these problems may require debugging and careful problem analysis. Learning to use debugging tools and techniques, and obtaining help by asking questions in the community or forum, is very valuable.
+
+ 
+
+5. code review and feedback: contributions usually need to go through the code review process, which may sometimes lead to additional work and feedback. It is important to receive review and feedback, and actively collaborate with reviewers to improve the code.",Agree,Agree,Neutral,Neutral,Agree,Agree,Agree,Neutral,Neutral,Neutral
+"* The project that we worked on used software from different projects and so we effectively had to learn two repositories and how one could be used in another
+
+* One of our issues that we had worked on was closed after someone had completed it without letting anyone know
+
+* Only one person seemed to run the merging and pull requests, which slowed progress and meant not many pull requests got merged of ours.",Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree
+"Although the onboarding process was well documented, the codebase itself comprises of multiple subsystems and languages with mixed support and dependencies. Knowing how to contribute concisely in the correct manner was a challenge, which required feedback from the developers to attain. Defining the source issue was also challenging as the fault was reported on a live platform which depends on external web services, hiding the parsing error once the dependent system was fixed without addressing the root cause.",Agree,Strongly agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,Agree
+"When I try to contribute to an open-source project, I run into the following problems:
+
+* First of all, before studying this course, I had never had the experience of contributing to open-source projects, and many aspects only succeeded after trying again and again;
+
+* I didn't focus on the priority of each issue of an open-source project. This caused that although I submitted my contribution, there weren't any maintainers to accept it.
+
+* Open-source projects often have strict code quality and coding style standards. It's hard for me to change my coding style in a short time.",Agree,Strongly agree,Neutral,Agree,Agree,Strongly agree,Agree,Neutral,Agree,Agree
+"1. Understanding the source code
+2. How to participate in the modification of code segments
+3. How to communicate with code managers
+4. How to communicate with the community
+5. How to improve functionality
+6. encounter some difficulties in code review
+7. The process of submitting PR
+8. The challenge of collaborating and communicating with fellow students",Strongly agree,Neutral,Neutral,Neutral,Strongly agree,Strongly agree,Neutral,Strongly agree,Strongly agree,Neutral
+"One of the first challenges I encountered doing open source project was the documentation. In p5 js the in-line documentation had to follow yui doc style. It proved to be an obstacle as I was not familiar with yui doc style and required me to look at documentation and watch videos to familiarise myself. From my experience, projects from University Assignment lack a documentation on coding styles as result I felt it was up to the individual to implement their own coding documentation style though they had to follow a certain theme such as easy to understand, comment before the code statement etc.. Using a documentation from an established standard at the end proved to be a learning experience that is rewarding. Rewarding in sense that in industry the companies will have their own in-line documentation for code and understanding and practicing coding style right now  while learning open source proved to be valuable.  
+
+The second challenge well maybe not a challenge is the lack of communication of the steward overseeing the pull request. As of right now our group has made a second PR for our second issue and currently waiting for response from the steward. The communication from the steward for our first issue was responsive in terms of providing feedback and accepting the PR into the main branch. Hopefully the second one is able to respond to the PR for our second issue.",Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Neutral,Agree
+"I faced couple of problems.
+
+1. Finding the relevant issue to which you can contribute without having to learn new knowledge.
+
+2. Inactive community and late replies from the admins",Neutral,Agree,Disagree,Disagree,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree
+"首先，我认为很难找到适合团队工作的问题，因为在我们建立团队之前，每个小组成员都有不同的背景。
+
+第二，我觉得你在选题的时候，你需要了解这个项目，可能会花很长时间去研究它。比如，搭建环境，研究项目的框架等等。
+
+第三，当你发现它可能与其他类或函数有关的错误时，你需要大量的知识和计算机技能。
+
+最后，当您与作者沟通时，您需要找到正确的解决方案来解决问题。",Agree,Agree,Neutral,Strongly agree,Neutral,Neutral,Agree,Agree,Neutral,Agree
+I was a little worried about the code quality and whether my contribution would be accepted by the repository owner. But it all worked out in the end.,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree
+"One of the first issues I (and my team) encountered when contributing to an open source project was realising that the issue we initially wanted to work on was significant more complicated and difficult than initially expected. After the proposal presentation we took a couple of weeks before we started actually contributing (this was due to overwhelming amounts of uni, work and life commitments for everyone in the team). Because of this we weren’t able to realise the issue was significantly more complicated and out of our collective capabilities to achieve before we finish this course (even if we had started immediately).
+
+I also encountered some difficulty when trying to initially understand the open source project code base. The project we chose uses programming languages that I have very limited experience with, if any. This meant that before I could actually start on any contribution I needed to acquire some basic understanding of the programming language(s) used.
+
+The final major issue I encountered was that I use a Mac, but many of the issues which would be achievable within the timeframe were focussed on the ability of the system on Windows or Linux. ",Agree,Strongly agree,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree
+"Finding issues related to the OS that I have.
+
+replicating issues/bugs",Neutral,Strongly agree,Agree,Agree,Agree,Neutral,Strongly agree,Agree,Agree,Agree
+"There are a few challenges.
+
+1. Setup develop environment of the open source project. We initially selected Zetler as our project. It is complicated to set up the development environment on my pc. And one team member was unable to set up and pass the initial test. Therefore we have to choose another project.
+
+2. Find the issue to work on. Due to the limit of time and resource, we can only work on more isolated issues not related to any hardware testing. We spent a lot of time looking for a manageable issue for our project p5.js.
+
+3. Find the links between different modules of the project. There are many modules in p5.js. When starting coding, first of all, I need to find the exact module that contains the code to change, and understand how the change affect other modules. Due to the time limit, I didn't understand all the relations between modules, but only found the relevant module by intentionally break the code.",Agree,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,Agree
+"1. My computer has not much storage to download the project.
+
+2. First time, I tried to change some spelling words from the file, but I only focused on words with red lines under them (which the computer think it's wrong, but actually it's the tool names).
+
+3. Then, I tried to add a function that can make the theme can change automatically, I looked at and understand their code for a very long time. After I did a contribution, they helped me to find some resources to change my code, they are very useful resources. 
+
+ ",Neutral,Agree,Agree,Neutral,Agree,Agree,Neutral,Neutral,Neutral,Agree
+It takes so long to get a whole picture of the project. You can go add a block onto something that you have no idea what it is.,Strongly agree,Strongly agree,Neutral,Disagree,Neutral,Strongly agree,Agree,Neutral,Neutral,Strongly disagree
+"I struggled trying to replicate an issue, and also in making sure anything i did, did not break any other areas of code. ",Neutral,Strongly agree,Agree,Agree,Agree,Neutral,Agree,Neutral,Neutral,Agree
+"There were multiple challenges during the course of this contribution, the most notable challenge was the maintaining the time frame to submit the code and second was maintaining not only proper communications but also maintaining the integrity of the overall code. ",Neutral,Strongly agree,Neutral,Neutral,Agree,Agree,Agree,Neutral,Agree,Agree
+"Problems encountered:
+Delayed responses from admins when claiming an issue
+
+There were several issues that looked to be straightforward, however upon closer inspection, the documentation for the project was not kept up-to-date and the problem could not be fixed without making contributions to another OSP.",Agree,Agree,Neutral,Neutral,Agree,Agree,Agree,Agree,Agree,Neutral
+"Most of my issues were technical.
+Zettlr was using a library called CodeMirror (CM) which is used for creating boxes in web apps where you can write Code or Markdown and so on. Zettlr had recently transitioned from CM 5 to CM 6 and which made some information outdated and made it harder to find resources. We had seen that students in a previous year had tackled the issue of adding a copy button to code blocks but it was made using CM 5. We had originally hoped we could use the code they had written apply the changes the Zettlr project owners had requested and get the branch merged but we found that most if not all the code was unusable in CM 6.
+
+Some of the README was out of date, it was in relation to the file structure and why it was structured as it was. My fellow group members made an issue for it and made updates for it. It is interesting in that regard that a lot of issues just need more new people to see things with fresh eyes and fix documentation, in that way the issue became an opportunity for us.",Agree,Strongly agree,Neutral,Neutral,Agree,Strongly agree,Strongly agree,Neutral,Neutral,Agree
